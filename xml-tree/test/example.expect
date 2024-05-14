@@ -1,0 +1,15 @@
+<%%root%%>
+  <xml>
+    <outer>
+          space    
+      <inner>
+        circle
+      </inner>
+          limit  
+    </outer>
+      middle content  that contains  newlines (to be discarded)  and extra   spaces  (to  be  retained)  
+    <the_answer>
+      42
+    </the_answer>
+  </xml>
+</%%root%%>
