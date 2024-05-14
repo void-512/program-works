@@ -1,0 +1,26 @@
+New grid size is 3 x 4.
+Setting grid value at (2,3) to 9.
+[0 0 0 0]
+[0 0 0 0]
+[0 0 0 9]
+Warning: resizing grid failed
+Grid size is 3 x 4.
+Warning: setting value in grid failed
+Setting grid value at (2,3) to 8.
+Setting grid value at (1,2) to -6.
+Setting grid value at (0,1) to 4.
+[ 0  4  0  0]
+[ 0  0 -6  0]
+[ 0  0  0  8]
+New grid size is 4 x 3.
+[ 0  4  0]
+[ 0  0 -6]
+[ 0  0  0]
+[ 0  0  0]
+New grid size is 4 x 5.
+Setting grid value at (0,0) to 42.
+Setting grid value at (0,4) to -17.
+[ 42   4   0   0 -17]
+[  0   0  -6   0   0]
+[  0   0   0   0   0]
+[  0   0   0   0   0]
