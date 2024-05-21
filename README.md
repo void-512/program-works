@@ -1,1 +1,1 @@
-This is a repository for my previous C works.
+This is a repository for my previous programming works.
